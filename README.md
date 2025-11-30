@@ -7,20 +7,21 @@
 
 <div align="center">
   <h3>✨ 자기소개 ✨</h3>
-  <hr style="width: 60%; border: 0; border-top: 1px solid #d8dee4;" />
+  
   <p>
     현장 업무에 대한 이해를 바탕으로<br/>
     <b>안정적이고 견고한 시스템</b> 구현을 목표하는 주니어 개발자 <b>조은애</b>입니다. <br/><br/>
     바리스타 및 방과후 강사 경험으로 체득한 <b>책임감</b>과 <b>유연한 소통 능력</b>을 바탕으로,<br/>
     팀에게 신뢰를 주고 팀과 함께 서비스 개발·운영을 만들어가는 개발자를 지향합니다.
   </p>
+  <hr style="width: 60%; border: 0; border-top: 1px solid #d8dee4;" />
 </div>
 
 <br/>
 
 <div align="center">
   <h3>🛠 Tech Stacks 🛠</h3>
-  <hr style="width: 60%; border: 0; border-top: 1px solid #d8dee4;" />
+  
 </div>
 
 <div align="center">
@@ -54,18 +55,21 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+  
+  <hr style="width: 60%; border: 0; border-top: 1px solid #d8dee4;" />
 </div>
 
 <br/>
 
 <div align="center">
   <h3>📊 GitHub Stats 📊</h3>
-  <hr style="width: 60%; border: 0; border-top: 1px solid #d8dee4;" />
+  
   
   <!-- 메인 스탯 -->
   <img src="https://github-readme-stats.vercel.app/api?username=jea0123&show_icons=true&theme=algolia" height="160" />
   <!-- Top Langs -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jea0123&layout=compact&theme=algolia" height="160" />
+  <hr style="width: 60%; border: 0; border-top: 1px solid #d8dee4;" />
 </div>
 
 <br/>
