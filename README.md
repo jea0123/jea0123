@@ -59,6 +59,5 @@
 - **FUNDIZ - 지역 경제 활성화 크라우드 펀딩 플랫폼**
   - 지역 크리에이터·소상공인을 위한 펀딩 프로젝트 생성, 검증, 후원, 정산까지 관리하는 웹 서비스
   - Repo: [Backend](https://github.com/jea0123/FUNDIZ_back) · [Frontend](https://github.com/jea0123/FUNDIZ_front)
-<br/>
 - [진행중] [Poly Academy ERP](https://github.com/jea0123/poly-academy-erp)
   - 교육 기관의 수강생, 강의, 수납을 통합 관리하는 ERP 웹 애플리케이션
