@@ -62,5 +62,5 @@
 
 <br/>
 
-#### [진행중] Poly Academy ERP
+#### [진행중] Poly Academy ERP - 학원용 미니 ERP
 - 교육 기관의 수강생, 강의, 수납을 통합 관리하는 ERP 웹 애플리케이션
