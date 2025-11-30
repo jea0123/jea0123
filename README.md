@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>✨ 자기소개 ✨</h3>
-  <hr style="width: 40%; border: 0; border-top: 1px solid #d8dee4;" />
+  <hr style="width: 35%; border: 0; border-top: 1px solid #e5e7eb;" />
   <p>
     현장 업무에 대한 이해를 바탕으로<br/>
     <b>안정적이고 견고한 시스템</b> 구현을 목표하는 주니어 개발자 <b>조은애</b>입니다. <br/><br/>
@@ -20,7 +20,7 @@
 <!-- Tech Stack -->
 <div align="center">
   <h3>🛠 Tech Stacks 🛠</h3>
-  <hr style="width: 60%; border: 0; border-top: 1px solid #d8dee4;" />
+  <hr style="width: 35%; border: 0; border-top: 1px solid #e5e7eb;" />
 </div>
 
 <div align="center">
