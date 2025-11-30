@@ -43,4 +43,4 @@
   </div> 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jea0123&layout=compact)](https://github.com/jea0123/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jea0123&layout=compact&theme=algolia)
