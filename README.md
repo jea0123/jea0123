@@ -3,8 +3,8 @@
 </div>
 
 <div align= "center"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">✨ 자기소개 ✨</h2>  
-  <div style="font-weight: 700; font-size: 10px; text-align: center; color: #282d33;">
+  <h2 style="border-bottom: 1 solid #d8dee4; color: #282d33;">✨ 자기소개 ✨</h2>  
+  <div style="font-weight: 700; font-size: 10; text-align: center; color: #282d33;">
     현장 업무의 깊은 이해를 바탕으로 안정적이고 견고한 시스템 구현을 목표하는 주니어 개발자 조은애입니다.
     <br/>
     계획적인 실행과 꼼꼼한 기록 습관을 통해 안정성, 정합성, 추적 가능성을 핵심 가치로 중시합니다.
