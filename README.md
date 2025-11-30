@@ -12,11 +12,11 @@
   
   <div style="margin: 0 auto; text-align: center;" align= "center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring-007396?style=flat-square&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
     <br/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
     <br/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
@@ -36,6 +36,10 @@
 </div>
   
 <div align= "center"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">   </div> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
+  
+  <div align= "center">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jea0123)](https://github.com/jea0123/github-readme-stats)
+  </div> 
 </div>
     
