@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**jea0123/jea0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<svg
+        width="854"
+        height="200"
+        viewBox="0 0 854 200"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <style>
+      .text {   font-size: 45px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
+      .text, .desc {   animation: blinking 1.6s step-start 0s infinite;  } @keyframes blinking {   20% {     opacity: 1;   }   50% {     opacity: 0;   }   80% {     opacity: 1;   }  } 
+    </style>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 854 200"
+        >
+          <defs>
+              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#c2e59c"/><stop offset="100%" stop-color="#64b3f4"/>
+              </linearGradient>
+            </defs>
+          <path fill="url(#linear)"  fill-opacity="1" d="M 30 0 H 824 C 839 0, 854 15, 854 30 V 130 C 854 145, 839 160, 824 160 H 794 L 754 200 L 714 160 H 30 C 15 160, 0 145, 0 130 V 30 C 0 15, 15 0, 30 0 Z"></path>
+        </svg>
+         <text 
+      text-anchor="middle" 
+      alignment-baseline="middle" 
+      x="50%" 
+      y="35%" 
+      class="text" 
+      style="fill:#f7f5f5;" 
+      stroke="#none" 
+      stroke-width="1"
+    >
+      <tspan x="30%" dy="0">speech</tspan><tspan x="60%" dy="20%">bubble</tspan>
+    </text>
+  
+        
+      </svg>
